@@ -7,11 +7,11 @@ const commitUrl = `https://github.com/${config.githubName}/${config.githubRepo}/
 const buildTime = ref<string>("Unknown");
 
 const paragraphs = [
-  "幽深宇宙已岁逾百亿，惟闪烁星光点缀生机",
-  "我常仰望浩瀚天际，思念在同一颗星球的你",
-  "想，那转瞬的迷人流星，也许就是你的回眸",
-  "光坠之地，吾之忧祈",
-  "——2021.12.4"
+  "瞧你发现了什么！",
+  "这里是MalphaX的博客",
+  "因为这里刚整起来所以东西很少",
+  "我会到码头整点薯条的.jpg",
+  "——2022.08.01"
 ];
 
 onBeforeMount(async () => {
